@@ -1,0 +1,42 @@
+
+.2-column-flex{
+    flex-direction: horizontal;
+    grid-column-gap: 6.5rem;
+    grid-row-gap: 2.5rem;
+    background-color: #000;
+    border: 1px solid #f79e7c;
+    border-radius: 20px;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 5rem;
+    padding: 4rem;
+    display: flex;
+    overflow: hidden;
+}
+
+h1{
+    text-transform: uppercase;
+    text-align: center;
+    margin-bottom: 3.5rem;
+    font-family: source-sans-pro, sans-serif;
+    align-items: center;
+    font-size: 13vw;
+    font-style: italic;
+    font-weight: 900;
+    line-height: 1;
+}
+
+.container {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 7.5vw;
+    padding-right: 7.5vw;
+    display: block;
+    position: relative;
+}
+
+.jumbo-heading {
+
+    color:purple;
+}
